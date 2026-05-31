@@ -80,18 +80,19 @@ The system predicts environmental asthma risk levels in real time using:
 
 Example Output:
 
-Temperature: 32.4
-Humidity: 69.7
-AQI: 4
-Predicted Risk: High
+Temperature: 31.4
+Humidity: 71.3
+AQI: 1
+Predicted Risk: Medium
 
 ---
 
 ## Future Enhancements
 
-* Cloud database integration
-* Mobile application support
-* Real-time dashboard monitoring
-* SMS/Email alert system
-* Additional environmental sensors integration
+Integration of PM2.5 and MQ135 gas sensors for advanced air quality monitoring.
+Implementation of LCD display for local environmental status display.
+Automatic air purifier control based on predicted risk levels.
+Development of Generative AI-based health advisory and alert system.
+
+
 
